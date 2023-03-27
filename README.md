@@ -2,10 +2,10 @@
 C
 Group project
 
-Collaborators:
-
-#Celestine Kpabitey
-#Alhassan Hamdani Gandi
+## Contributors
+- [Celestine Kpabitey ](https://github.com/Gabeytech)
+- [Alhassan Hamdani Gandi ](https://github.com/hamdani2020)
+# Printf.
 
 Concepts
 For this project, we expect you to look at these concepts:

@@ -3,7 +3,7 @@ C
 Group project
 
 ## Contributors
-- [Celestine Kpabitey ](https://github.com/)
+- [Celestine Kpabitey ](https://github.com/Dkpabitey)
 - [Alhassan Hamdani Gandi ](https://github.com/hamdani2020)
 # Printf.
 
